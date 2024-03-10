@@ -18,7 +18,6 @@ import java.util.Collections;
 import java.util.List;
 import java.util.UUID;
 
-
 @Service
 public class UserService implements UserDetailsService {
     @Autowired
